@@ -25,4 +25,4 @@ FitHub is your go-to fitness companion, offering a user-friendly interface to ex
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sukhbir77/fitness_api_react.git
+   git clone https://github.com/sukhbir77/fitness-website-react.git
